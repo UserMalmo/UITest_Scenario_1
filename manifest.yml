@@ -1,8 +1,6 @@
 applications:
 - memory: 512MB
   path: .
-  host: UITest_Scenario3_
   disk: 1024M
   command: node app.js
-  name: UITest_Scenario3_
   instances: 1
