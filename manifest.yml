@@ -1,6 +1,0 @@
-applications:
-- memory: 512MB
-  path: .
-  disk: 1024M
-  command: node app.js
-  instances: 1
