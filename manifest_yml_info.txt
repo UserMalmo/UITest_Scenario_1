@@ -1,0 +1,10 @@
+//Information from the maifest file that was delete to make the project work with the run bar in Web IDE
+applications:
+- name: <new name>
+  framework: node
+  runtime: node08
+  memory: 256MB
+  instances: 1
+  host: <new name>
+  path: .
+  command: node app.js
