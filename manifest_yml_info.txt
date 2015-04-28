@@ -1,7 +1,0 @@
-//Information from the maifest file that was delete to make the project work with the run bar in Web IDE
-applications:
-- memory: 512MB
-  path: .
-  disk: 1024M
-  command: node app.js
-  instances: 1
